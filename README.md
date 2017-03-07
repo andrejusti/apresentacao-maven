@@ -1,2 +1,2 @@
 # apresentacao-maven
-Apresentação Maven
+Apresentação Maven, Slides: https://pt.slideshare.net/AndrJusti/apresentao-maven-72882580
